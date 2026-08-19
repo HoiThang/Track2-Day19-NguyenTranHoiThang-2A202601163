@@ -1,0 +1,25 @@
+C:\Users\Tunnne\AppData\Roaming\Python\Python314\site-packages\tqdm\auto.py:21: TqdmWarning: IProgress not found. Please update jupyter and ipywidgets. See https://ipywidgets.readthedocs.io/en/stable/user_install.html
+  from .autonotebook import tqdm as notebook_tqdm
+
+Corpus size: 1000 docs
+First doc:
+{
+  "doc_id": "frontend_074",
+  "topic": "frontend",
+  "title": "Frontend: hỗ trợ ngoại tuyến qua service worker",
+  "text": "Khi triển khai ở quy mô lớn, frontend đòi hỏi phải hỗ trợ ngoại tuyến qua service worker. Các công cụ phổ biến gồm TypeScript, lazy loading, PWA. Khái niệm tải lười và trạng thái là nền tảng quan trọng. Bài viết này giải thích cách hỗ trợ ngoại tuyến qua service worker một cách thực tế, kèm ví dụ minh hoạ với TypeScript và PWA."
+}
+
+Vector dim: 384
+
+First 8 values: [-0.05812868848443031, -0.03396960720419884, -0.0201587975025177, -0.08142213523387909, 0.07334287464618683, 0.028618410229682922, -0.024041039869189262, 0.007082466501742601]
+
+Indexed: 1000 vectors
+
+Query: 'cloud computing và tự động mở rộng'
+Top-5:
+  1. [    cloud] score=0.804  Điện toán đám mây: tự động mở rộng theo lưu lượng
+  2. [    cloud] score=0.787  Điện toán đám mây: tự động mở rộng theo lưu lượng
+  3. [    cloud] score=0.775  Điện toán đám mây: tự động mở rộng theo lưu lượng
+  4. [    cloud] score=0.774  Điện toán đám mây: tự động mở rộng theo lưu lượng
+  5. [ data_eng] score=0.763  Data engineering: phân vùng theo ngày để tối ưu query
